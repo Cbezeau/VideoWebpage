@@ -12,7 +12,7 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
+  color: #365E5C;
   border: 1px solid #64a19d;
 }
 
@@ -72,13 +72,13 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #365E5C;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #365E5C;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
@@ -153,7 +153,7 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #365E5C;
 }
 
 .btn-primary:hover {
@@ -189,7 +189,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #365E5C;
   }
 }
 
@@ -203,7 +203,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #365E5C;
     border-width: .25rem;
     width: 30%;
   }
@@ -235,7 +235,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #365E5C;
 }
 
 .contact-section .card h4 {
@@ -246,7 +246,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #365E5C;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -279,7 +279,7 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #365E5C;
 }
 
 a:focus, a:hover {
@@ -296,7 +296,7 @@ a:focus, a:hover {
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #365E5C !important;
 }
 
 footer {

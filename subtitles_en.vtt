@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.606
+Create a repository on github and give it a name that is in relation to what your project is about.
+
+2
+00:00:11.739 --> 00:00:23.074
+Locate your folder that contains your files and make sure it contains your index.html file. Then upload the contents of the folder to the github repository.
+
+3
+00:00:26.954 --> 00:01:01.154
+Wait for github to finish uploading your files and then commit your changes. Once your changes have been committed go to the settings of the repository.
+
+4
+00:01:25.954 --> 00:02:01.154
+Scroll to the gh pages section and change the dropdown to the master branch. This will then publish a link to see your Portfolio on a live github link.
